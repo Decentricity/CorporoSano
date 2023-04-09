@@ -31,8 +31,6 @@ pip install langid
 - The script creates a backup of the original text files in the `backup` subfolder.
 - Please test the script on a sample dataset before using it on your actual data to ensure that it works as expected.
 
-### License
-[MIT License](LICENSE)
 
 ## Bahasa Indonesia
 Repositori ini berisi skrip Python yang memproses file teks dalam folder, menghapus potongan teks berbahasa Inggris dari teks campuran (code-switched), dan mempertahankan teks non-Bahasa Inggris dan frasa Bahasa Inggris pendek (1-3 kata). Skrip ini juga membuat cadangan file teks asli dalam subfolder.
