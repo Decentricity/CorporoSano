@@ -9,7 +9,7 @@ This repository contains a Python script that processes text files in a folder, 
 
 ### Features
 - Language identification and filtering: The script identifies and removes English-language snippets from code-switched text.
-- Data sanitation: The script removes URLs, phone numbers, and meaningless words with mixed letters and numbers (e.g., "Hk3j4").
+- Data sanitation: The script removes URLs, phone numbers, and meaningless words with mixed letters and numbers (e.g., "Hk3j4") while keeping words like GPT4 and DEFCON4.
 
 ### Usage
 1. Clone this repository to your local machine.
@@ -45,7 +45,7 @@ Repositori ini berisi skrip Python yang memproses file teks dalam folder, mengha
 
 ### Fitur
 - Identifikasi dan penyaringan bahasa: Skrip mengidentifikasi dan menghapus potongan teks berbahasa Inggris dari teks campuran.
-- Sanitasi data: Skrip menghapus URL, nomor telepon, dan kata-kata tidak berarti dengan campuran huruf dan angka (mis., "Hk3j4").
+- Sanitasi data: Skrip menghapus URL, nomor telepon, dan kata-kata tidak berarti dengan campuran huruf dan angka (mis., "Hk3j4") dan tidak menghapus kata-kata seperti GPT2 dan TV3.
 
 ### Cara Penggunaan
 1. Kloning repositori ini ke komputer lokal Anda.
