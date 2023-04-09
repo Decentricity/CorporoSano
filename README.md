@@ -4,7 +4,12 @@
 
 ## English
 This repository contains a Python script that processes text files in a folder, removes English-language snippets from code-switched text, and retains non-English text and short English phrases (1-3 words). The script also creates a backup of the original text files in a subfolder.
-(Code-switching: Linguistic term for mixing languages when speaking, for example: "Apa kabar sih darling, what are you doing here?")
+
+### (Code-switching: Linguistic term for mixing languages when speaking, for example: "Apa kabar sih darling, what are you doing here?")
+
+### Features
+- Language identification and filtering: The script identifies and removes English-language snippets from code-switched text.
+- Data sanitation: The script removes URLs, phone numbers, and meaningless words with mixed letters and numbers (e.g., "Hk3j4").
 
 ### Usage
 1. Clone this repository to your local machine.
@@ -35,7 +40,12 @@ pip install langid
 
 ## Bahasa Indonesia
 Repositori ini berisi skrip Python yang memproses file teks dalam folder, menghapus potongan teks berbahasa Inggris dari teks campuran (code-switched), dan mempertahankan teks non-Bahasa Inggris dan frasa Bahasa Inggris pendek (1-3 kata). Skrip ini juga membuat cadangan file teks asli dalam subfolder.
-(Code-switching: Istilah linguistik untuk bahasa campur sari seperti: "Apa kabar sih darling, what are you doing here?")
+
+### (Code-switching: Istilah linguistik untuk bahasa campur sari seperti: "Apa kabar sih darling, what are you doing here?")
+
+### Fitur
+- Identifikasi dan penyaringan bahasa: Skrip mengidentifikasi dan menghapus potongan teks berbahasa Inggris dari teks campuran.
+- Sanitasi data: Skrip menghapus URL, nomor telepon, dan kata-kata tidak berarti dengan campuran huruf dan angka (mis., "Hk3j4").
 
 ### Cara Penggunaan
 1. Kloning repositori ini ke komputer lokal Anda.
