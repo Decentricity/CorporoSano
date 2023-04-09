@@ -16,7 +16,7 @@ The script will process each text file, create a backup in the `backup` subfolde
 ```python
 folder_path = './path_to_text_files'
 process_text_files(folder_path)
-
+```
 ### Requirements
 - Python 3
 - langid.py library
