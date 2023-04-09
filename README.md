@@ -1,5 +1,5 @@
 # CorporoSano
-# Language Filter for Code-Switched Text
+# Language Filter and Data Sanitizer for Non-English Code-Switched Text
 [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
 ## English
