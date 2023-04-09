@@ -8,7 +8,7 @@ This repository contains a Python script that processes text files in a folder, 
 ### Usage
 1. Clone this repository to your local machine.
 2. Place the text files you want to process in the `path_to_text_files` folder.
-3. Run the `language_filter.py` script.
+3. Run the `corporosano.py` script.
 
 The script will process each text file, create a backup in the `backup` subfolder, and remove English-language snippets from the original text files. The modified files will be saved in the original folder.
 
@@ -40,7 +40,7 @@ Repositori ini berisi skrip Python yang memproses file teks dalam folder, mengha
 ### Cara Penggunaan
 1. Kloning repositori ini ke komputer lokal Anda.
 2. Letakkan file teks yang ingin diproses di folder `path_to_text_files`.
-3. Jalankan skrip `language_filter.py`.
+3. Jalankan skrip `corporosano.py`.
 
 Skrip ini akan memproses setiap file teks, membuat cadangan di subfolder `backup`, dan menghapus potongan teks berbahasa Inggris dari file teks asli. File yang telah dimodifikasi akan disimpan di folder asli.
 
